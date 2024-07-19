@@ -1,6 +1,3 @@
-//by Phung Viet Hoang, Trieu Thanh Tung. Pham Dang Duc - Do an co so nganh - DHCNHN - KTMT k15
-//test ok, thay được switch case bằng chiếu mảng 
-
 #include <Keyboard.h>
 #include <KeyboardLayout.h>
 #include <Keyboard_da_DK.h>
